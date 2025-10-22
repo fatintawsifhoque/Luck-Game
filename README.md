@@ -43,4 +43,4 @@ This project was built to practice **DOM manipulation, event handling, game logi
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://your-netlify-or-vercel-link.com)  
+👉 [View Live Demo](https://luck-game.vercel.app/)  
